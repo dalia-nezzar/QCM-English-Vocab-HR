@@ -9,7 +9,7 @@ st.set_page_config(page_title="Quiz Vocabulaire Professionnel", page_icon="📚"
 # Fonction pour charger le vocabulaire
 @st.cache_data
 def load_vocabulary():
-    with open('vocabulary.json', 'r', encoding='utf-8') as f:
+    with open('vocab.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     return data['vocabulary']
 
