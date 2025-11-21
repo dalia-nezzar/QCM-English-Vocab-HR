@@ -1,0 +1,264 @@
+{
+  "vocabulary": [
+    {
+      "term": "salary",
+      "definition": "the money that someone is paid each month by their employer, especially when they are in a profession such as teaching, law, or medicine",
+      "example": "The government decided to increase salaries for civil servants."
+    },
+    {
+      "term": "wage",
+      "definition": "the amount of money that you are paid for the work that you do",
+      "example": "His wages have gone up."
+    },
+    {
+      "term": "remuneration",
+      "definition": "the amount of money that you are paid for the work that you do",
+      "example": "The continuing marked increase in the remuneration of the company's directors."
+    },
+    {
+      "term": "income",
+      "definition": "the money that they earn or receive, as opposed to the money that they have to spend or pay out",
+      "example": "Many families on low incomes will be unable to buy their own homes."
+    },
+    {
+      "term": "benefits package",
+      "definition": "a set of benefits, such as health insurance and parental leave, that some people get from their job in addition to their salary",
+      "example": "A benefits package that included maternity leave, parental leave, adoption aid, flexible schedules, part-time work, job sharing and support for care of elderly dependants."
+    },
+    {
+      "term": "perk",
+      "definition": "special benefits that are given to people who have a particular job or belong to a particular group",
+      "example": "A company car, private medical insurance and other perks."
+    },
+    {
+      "term": "share option",
+      "definition": "an opportunity for the employees of a company to buy shares in the company at a special rate",
+      "example": "He made a huge profit from the sale of shares purchased in January under the company's stock option program."
+    },
+    {
+      "term": "stock option",
+      "definition": "an opportunity for the employees of a company to buy shares in the company at a special rate",
+      "example": "Only a handful of firms offer share option schemes to all their employees."
+    },
+    {
+      "term": "minimum wage",
+      "definition": "the lowest wage that an employer is allowed to pay an employee, according to a law or agreement",
+      "example": "I think that the introduction of a national minimum wage for the first time ever will help millions of low-paid people."
+    },
+    {
+      "term": "performance-related pay",
+      "definition": "a rate of pay which is based on how well someone does their job",
+      "example": "Teachers will fight Ministers' plans to introduce performance-related pay in schools."
+    },
+    {
+      "term": "compensation",
+      "definition": "money that someone who has experienced loss or suffering claims from the person or organization responsible, or from the state",
+      "example": "He received his salary as compensation for loss of office."
+    },
+    {
+      "term": "golden handshake",
+      "definition": "a large sum of money that a company gives to an employee when he or she leaves, as a reward for long service or good work",
+      "example": "He was given the golden handshake after losing his post as boss of the University of Wales when it merged with another hospital."
+    },
+    {
+      "term": "bonus",
+      "definition": "an extra amount of money that is added to someone's pay, usually because they have worked very hard",
+      "example": "The BBC's 23 most senior managers shared £800,000 in bonus payments last year."
+    },
+    {
+      "term": "benefit",
+      "definition": "extra things that some people get from their job in addition to their salary, for example a car",
+      "example": "Benefits or fringe benefits are extra things."
+    },
+    {
+      "term": "fringe benefit",
+      "definition": "extra things that some people get from their job in addition to their salary, for example a car",
+      "example": "Benefits or fringe benefits are extra things that some people get."
+    },
+    {
+      "term": "industrial relations",
+      "definition": "the relationship between employers and employees in industry, and the political decisions and laws that affect it",
+      "example": "The offer is seen as an attempt to improve industrial relations."
+    },
+    {
+      "term": "trade union",
+      "definition": "an organization that has been formed by workers in order to represent their rights and interests to their employers",
+      "example": "You can ask the tribunal to declare that your employer is infringing the regulations or get your trade union to take this up."
+    },
+    {
+      "term": "works council",
+      "definition": "an elected body of workers within a company, which negotiates with management over such things as working conditions, holiday and safety",
+      "example": "A European directive calling for works councils for all companies with more than 50 employees."
+    },
+    {
+      "term": "staff representative",
+      "definition": "a worker who is elected by other workers to represent their interests to management",
+      "example": "The company yesterday began the process of electing staff representatives to fulfil the legal requirements for consultation."
+    },
+    {
+      "term": "arbitration",
+      "definition": "the judging of a dispute between people or groups by someone who is not involved",
+      "example": "The matter is likely to go to arbitration."
+    },
+    {
+      "term": "blue-collar",
+      "definition": "workers in industry, doing physical work, rather than in offices",
+      "example": "By 1925, blue-collar workers in manufacturing industry had become the largest occupational group."
+    },
+    {
+      "term": "white-collar",
+      "definition": "workers work in offices rather than doing physical work",
+      "example": "Corporate lawyers, accountants and other white-collar workers."
+    },
+    {
+      "term": "colleague",
+      "definition": "the people you work with, especially people on the same job or project as you",
+      "example": "Without consulting his colleagues he flew from Lisbon to Split."
+    },
+    {
+      "term": "co-worker",
+      "definition": "the people you work with, especially people on the same job or project as you",
+      "example": "Your colleagues or co-workers are the people you work with."
+    },
+    {
+      "term": "strike",
+      "definition": "workers stop doing their work for a period of time, usually in order to try to get better pay or conditions for themselves",
+      "example": "French air traffic controllers have begun a three-day strike in a dispute over pay."
+    },
+    {
+      "term": "go on strike",
+      "definition": "when workers go on strike, they strike",
+      "example": "Staff at the hospital went on strike in protest at the incidents."
+    },
+    {
+      "term": "industrial action",
+      "definition": "workers join together and do something to show that they are unhappy with their pay or working conditions, for example refusing to work",
+      "example": "Prison officers will decide next week whether to take industrial action over staffing levels."
+    },
+    {
+      "term": "grievance",
+      "definition": "something that has happened or been done, you believe that it was unfair",
+      "example": "The main grievance of the drivers is the imposition of higher fees for driving licences and certificates of proficiency."
+    },
+    {
+      "term": "grievance procedure",
+      "definition": "a set of guidelines produced by a company or organization, which explains how to make a formal complaint against them",
+      "example": "One of their biggest mistakes is failing to put a formal grievance procedure in place to deal with staff complaints."
+    },
+    {
+      "term": "tribunal",
+      "definition": "a special court or committee that is appointed to deal with particular problems",
+      "example": "His case comes before an industrial tribunal in March."
+    },
+    {
+      "term": "working conditions",
+      "definition": "the conditions which exist in your job, such as the number of hours you are expected to work and the amount of holiday you get",
+      "example": "The strikers are demanding better working conditions."
+    },
+    {
+      "term": "hire",
+      "definition": "you employ them or pay them to do a particular job for you",
+      "example": "The staff have been hired on short-term contracts."
+    },
+    {
+      "term": "fire",
+      "definition": "your employer fires you, they dismiss you from your job",
+      "example": "If he wasn't so good at his job, I probably would have fired him."
+    },
+    {
+      "term": "headhunt",
+      "definition": "someone who works for a particular company is headhunted, they leave that company because another company has approached them and offered them another job with better pay and higher status",
+      "example": "He was headhunted by Barkers last October."
+    },
+    {
+      "term": "recruit",
+      "definition": "you select them and persuade them to join it or work for it",
+      "example": "The police are trying to recruit more black and Asian officers."
+    },
+    {
+      "term": "dismiss",
+      "definition": "the employer tells the employee that they are no longer needed to do the job they have been doing",
+      "example": "The power to dismiss civil servants who refuse to work."
+    },
+    {
+      "term": "headhunter",
+      "definition": "a person or service that helps professional people to find work by introducing them to potential employers",
+      "example": "A top international headhunter who places chairmen and chief executives in private companies."
+    },
+    {
+      "term": "recruitment consultant",
+      "definition": "a person or service that helps professional people to find work by introducing them to potential employers",
+      "example": "Recruitment consultants and employment agencies may help to locate opportunities more effectively."
+    },
+    {
+      "term": "notice",
+      "definition": "information that is going to happen",
+      "example": "The next morning I telephoned him and gave him his notice."
+    },
+    {
+      "term": "give somebody notice",
+      "definition": "an employer gives an employee notice, the employer tells the employee that he or she must leave his or her job within a fixed period of time",
+      "example": "Employers and employees do not expressly agree on the length of notice required to terminate employment."
+    },
+    {
+      "term": "hand in your notice",
+      "definition": "you tell your employer that you are going to leave your job soon within a set period of time",
+      "example": "He handed in his notice at the bank and ruined his career."
+    },
+    {
+      "term": "give in your notice",
+      "definition": "you tell your employer that you are going to leave your job soon within a set period of time",
+      "example": "He sold his house and gave in his notice."
+    },
+    {
+      "term": "constructive dismissal",
+      "definition": "an employee claims constructive dismissal, they begin a legal action against their employer in which they claim that they were forced to leave their job because of the actions of their employer",
+      "example": "The woman claims she was the victim of constructive dismissal after being demoted from her post as supervisor."
+    },
+    {
+      "term": "unfair dismissal",
+      "definition": "an employee claims unfair dismissal, they begin a legal action against their employer in which they claim that they were dismissed from their job unfairly",
+      "example": "His former chauffeur is claiming unfair dismissal on the grounds of racial discrimination."
+    },
+    {
+      "term": "severance",
+      "definition": "a sum of money that a company gives to its employees when it has to stop employing them",
+      "example": "We were offered 13 weeks' severance pay."
+    },
+    {
+      "term": "redundant",
+      "definition": "your employer tells you to leave because your job is no longer necessary or because your employer cannot afford to keep paying you",
+      "example": "My husband was made redundant late last year."
+    },
+    {
+      "term": "redundancy",
+      "definition": "being made redundant",
+      "example": "Thousands of bank employees are facing redundancy."
+    },
+    {
+      "term": "sack",
+      "definition": "your employers sack you, they tell you that you can no longer work for them",
+      "example": "Earlier today the Prime Minister sacked 18 government officials."
+    },
+    {
+      "term": "give someone the sack",
+      "definition": "someone is given the sack, or if they get the sack, they are sacked",
+      "example": "People who make mistakes can be given the sack the same day."
+    },
+    {
+      "term": "get the sack",
+      "definition": "they are sacked",
+      "example": "52 managers got the sack in one year."
+    },
+    {
+      "term": "reference",
+      "definition": "a letter that is written by someone who knows you and which describes your character and abilities",
+      "example": "The firm offered to give her a reference."
+    },
+    {
+      "term": "referee",
+      "definition": "a person who provides a reference, for example when you are applying for a job",
+      "example": "One problem that frequently arises is that you do not wish to give your present employer as a referee when applying for a job."
+    }
+  ]
+}
